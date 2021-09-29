@@ -1,9 +1,9 @@
 [package]
-name = "ed-derive"
+name = "ed2-derive"
 version = "0.1.1"
 authors = ["Matt Bell <mappum@gmail.com>"]
 edition = "2018"
-description = "Derive macros for the ed crate"
+description = "Derive macros for the ed2 crate"
 license = "MIT"
 
 [lib]
